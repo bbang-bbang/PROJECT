@@ -71,7 +71,7 @@
      2. 결핵은 폐암과 가장 상관성이 높은 합병증
 
 - 활용 데이터 
-  - API Key 활용 : [api 해석.ipynb](https://colab.research.google.com/drive/1-cmO6qiW4RMzkcJv2hOyDowMp5exOCET) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)(https://drive.google.com/file/d/1-cmO6qiW4RMzkcJv2hOyDowMp5exOCET/view?usp=sharing)]
+  - API Key 활용 : [api 해석.ipynb](https://colab.research.google.com/drive/1-cmO6qiW4RMzkcJv2hOyDowMp5exOCET) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1-cmO6qiW4RMzkcJv2hOyDowMp5exOCET/view?usp=sharing)
  
 - 분석 과정
   - 직업별, 성별 폐암 환자 그래프 시각화
